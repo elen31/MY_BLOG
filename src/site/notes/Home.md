@@ -4,7 +4,8 @@
 
 # Welcome to my Digital Garden 🌱
 
-Here you can find my cybersecurity writeups and notes.
+MSc student in Cybersecurity & AI | Offensive Security | Red Teaming Here you can find my cybersecurity writeups and notes from HackSmarter **Labs** .
+
 
 - [[shadowgate\|shadowgate]]
 - [[ShadowGate2\|ShadowGate2]] 
