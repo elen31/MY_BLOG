@@ -6,4 +6,4 @@
 
 Here you can find my cybersecurity writeups and notes.
 
-- [[shadowgate_notion\|shadowgate_notion]]
+- [[shadowgate\|shadowgate]]
