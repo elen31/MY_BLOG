@@ -7,3 +7,7 @@
 Here you can find my cybersecurity writeups and notes.
 
 - [[shadowgate\|shadowgate]]
+- [[ShadowGate2\|ShadowGate2]] 
+- [[Welcome\|Welcome]] 
+- [[Arasaka\|Arasaka]]
+- [[Share the Pain\|Share the Pain]]
