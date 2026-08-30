@@ -4,6 +4,13 @@
 
 # Welcome Lab — Penetration Test Report
 
+
+Date: 2026-08-08 
+Tester: Eleni Tsermentseli
+Domain: WELCOME.local
+Target: 10.1.135.197 (DC01.WELCOME.local)
+Difficulty: Easy
+
 ---
 
 ## Enumeration
@@ -299,4 +306,3 @@ type C:\Users\Administrator\Desktop\root.txt
 
 ---
 
-_Report generated for HackSmarter Labs — Welcome Lab_
